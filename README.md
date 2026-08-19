@@ -2,7 +2,7 @@
 
 > **بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ**
 
-Free Quran data in **10 languages** as JSON files — for developers building Islamic applications.  
+Free Quran data in **11 languages** as JSON files — for developers building Islamic applications.  
 No API key. No sign up. No cost. Just fetch and use.
 
 ---
@@ -21,7 +21,7 @@ No API key. No sign up. No cost. Just fetch and use.
 | `tr` | Turkish | Türkçe |
 | `ur` | Urdu | اردو |
 | `zh` | Chinese | 中文 |
-
+| `hi` | Hindi | Hindi |
 ---
 
 ## 📁 Repository Structure
